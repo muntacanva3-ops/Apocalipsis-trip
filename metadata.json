@@ -1,0 +1,6 @@
+{
+  "name": "Apocalipsis Trip",
+  "description": "Simulador 3D postapocalíptico de supervivencia en carretera: conduce un viejo V8 destartalado, explora ruinas a pie, recoge 30 reliquias y sobrevive a los zombies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
